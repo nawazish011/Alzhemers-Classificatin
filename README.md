@@ -1,1 +1,1 @@
-# Alzhemers-Classificatin
+# Alzhemers-Classification
